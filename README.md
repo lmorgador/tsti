@@ -1,2 +1,3 @@
 # tsti
-Topicos selector
+Luis Alberto Morgado Reyes <p>
+Topicos selectos de TI
